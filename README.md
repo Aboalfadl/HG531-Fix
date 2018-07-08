@@ -1,4 +1,4 @@
-# Huawui Router HG531 Fix | TEDATA Issue
+# Huawei Router HG531 Fix | TE-DATA Issue
 
 ### Info
 
