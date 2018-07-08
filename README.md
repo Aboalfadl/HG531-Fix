@@ -22,6 +22,8 @@ While am digging in this new device i found the following things :
 Fixing this issue is easy , i searched and i found a firmware of this router with the same model and simply you can go to the page of the upgrading the firmware and upgrade it : 
 Maintenance > Device > Firmware Upgrade
 
+After upgrading your firmware everything will be as you left it but everything will be unlocked and the router will be totally yours. Nothing will change and if anything changed i offered a new password for the admin that may be change to in the downloadable file.
+
 ### Download
 
 URL : https://drive.google.com/file/d/1KCeQnylt9tRnHTfVtvT9MlWepUiw959d/view?usp=sharing
